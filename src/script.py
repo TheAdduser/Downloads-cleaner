@@ -10,6 +10,8 @@ dest_dir_pictures = "E:/POBRANE/Pictures/"
 dest_dir_audio = "E:/POBRANE/Audio/"
 dest_dir_torrents = "E:/POBRANE/Torrents/"
 dest_dir_code = "E:/POBRANE/Code/"
+dest_dir_spreadsheet = "E:/POBRANE/Spreadsheets"
+dest_dir_presentation = "E:/POBRANE/Presentations"
 
 programs_format = [".exe",".msi"]
 videos_format = [".mp4",".mov",".avi"]
@@ -19,3 +21,5 @@ pictures_format = [".jpg","png","tif","tiff","svg","raw"]
 audio_format = [".mp3","wav"]
 torrent_format = [".iso", ".torrent"]
 code_format = [".html",".css",".js",".php",".tsx",".py",".sql",".cpp",".c",".java"]
+spreadsheet_format = [".xlsx"]
+presentation_format = [".pptx"]

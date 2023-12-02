@@ -16,3 +16,4 @@ File types:
 - iso,torrent -> Torrents
 - html, css, js, php, tsx, py, sql, cpp, c, java -> Code
 - xlsx -> Spreadsheets
+- pptx -> Presentations
