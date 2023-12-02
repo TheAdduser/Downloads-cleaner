@@ -12,6 +12,7 @@ File types:
 - zip, rar -> Archive
 - pdf, docx -> Documents
 - jpg, png, tif, tiff, svg, raw -> Pictures
-- mp3, wav -> Sounds
-- iso -> Torrents
+- mp3, wav -> Audio
+- iso,torrent -> Torrents
 - html, css, js, php, tsx, py, sql, cpp, c, java -> Code
+- xlsx -> Spreadsheets
