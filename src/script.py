@@ -1,14 +1,12 @@
 import os
 import shutil
 
-#'C:/Users/Bartek/Downloads'
-source_dir = "/home/theadduser/Repo"
+source_dir = "C:/Users/Bartek/Downloads"
 dest_dir_programs = "E:/POBRANE/Programs"
 dest_dir_videos = "E:/POBRANE/Videos"
 dest_dir_archive = "E:/POBRANE/Archive"
 dest_dir_documents = "E:/POBRANE/Documents"
-dest_dir_pictures = "/home/theadduser/pictures"
-#E:\\POBRANE\\Pictures
+dest_dir_pictures = "E:/POBRANE/Pictures"
 dest_dir_audio = "E:/POBRANE/Audio"
 dest_dir_torrents = "E:/POBRANE/Torrents"
 dest_dir_code = "E:/POBRANE/Code"
