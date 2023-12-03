@@ -9,7 +9,7 @@ Script's idea:
 File types:
 - exe, msi -> Programs
 - mp4, mov, avi -> Videos
-- zip, rar -> Archive
+- zip, rar, 7z -> Archive
 - pdf, docx -> Documents
 - jpg, png, tif, tiff, svg, raw -> Pictures
 - mp3, wav -> Audio
