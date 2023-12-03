@@ -35,6 +35,7 @@ def move_files(directory, formats, destination):
         if any(file.lower().endswith(ext) for ext in formats):
             source_path = os.path.join(directory, file)
             destination_path = os.path.join(destination, file)
+            shutil.move(source_path, destination_path)
             print(f"Moved {file} to {destination}")
 
 
