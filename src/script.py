@@ -16,7 +16,7 @@ dest_dir_presentation = "E:/POBRANE/Presentations"
 
 programs_format = [".exe",".msi"]
 videos_format = [".mp4",".mov",".avi"]
-archive_format = [".zip",".rar"]
+archive_format = [".zip",".rar", ".7zip"]
 documents_format = [".pdf",".docx"]
 pictures_format = [".jpg","png","tif","tiff","svg","raw"]
 audio_format = [".mp3","wav"]
